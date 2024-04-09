@@ -1,3 +1,10 @@
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
 No se puede ver el archivo ya que fue guardado en otra rama
 y al cambiarme de rama el archivo ya no existe.
+
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+Anteriormente solo tenia 2 ramas, ahora tengo 3 
+2 ramas en la principal 
+1 rama fuera de la principal
+
