@@ -35,7 +35,7 @@ void main(){
   pcVieja(punt);
   pcRapida(punt);
 
-  free(punt);
+  
    
 }
 
